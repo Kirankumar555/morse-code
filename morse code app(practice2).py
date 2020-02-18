@@ -274,8 +274,7 @@ def submitting_code():
     decoded_answer.config(font=("courier",24),fg='black',bg='white',padx=15,pady=10)
     decoded_answer.grid(row=4,column=1)
 
-#till this submitting is defined
-    
+#till this submitting is defined   
 #decoding script end's here
 
 #coding script starts here
